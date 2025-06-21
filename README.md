@@ -24,14 +24,17 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="52" height="40" alt="visualstudio logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
 </div>
-</p>
-
-<br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/d1lie/d1lie/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/d1lie/d1lie/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/d1lie/d1lie/output/pacman-contribution-graph.svg">
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/output/pacman-contribution-graph-dark.svg">
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/output/pacman-contribution-graph.svg">
+  <img 
+    alt="Pacman eating GitHub contributions" 
+    src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/output/pacman-contribution-graph.svg">
 </picture>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -4,7 +4,9 @@
 
 - 🔭 I’m currently working on **Project BugBounty-Framework**
 
-- 🌱 I’m currently learning **Go language, mobile pentesting, reactnative ,digital forensics**
+- 🌱 I’m currently learning **C++, mobile pentesting, reactnative ,digital forensics**
+
+<a href="https://buymeacoffee.com/d1lie" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 - 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/raja-d-b64b281a5)
 

@@ -1,6 +1,6 @@
 <h1 align="center">hyy! 👋, I'm Raja</h1>
 
-<h3 align="center">A cybersecurity engineer/vulnerability assessmentnd.and I recently developed a custom VAPT tool focused on website penetration testing. Throughout my career, It's become a habi for me to be passionate about cyber security and discovering vulnerabilities on every website.e.</h3>
+<h3 align="center">A cybersecurity engineer/penetration testing expert.and I recently developed some tool's focused on website penetration testing. Throughout my career, It's become a habi for me to be passionate about cyber security and discovering vulnerabilities on every website.</h3>
 
 - 🔭 I’m currently working on **Project BugBounty-Framework**
 

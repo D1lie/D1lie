@@ -8,20 +8,18 @@
   </a>
 </div>
 
-
 <img width="28%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
 
-<h1 align="center">hyy! 👋, I'm alastor</h1>
-
 <h2 align="left">
-  Hi there
+  hyy!, I'm alastor
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-<h3 align="center">A hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in penetration testing, vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.</h3>
+A hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in penetration testing, vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
 
 <details>
   <summary>More about me</summary>
+  
 - **Name**: alastor
 - **From**: India
 - **Bug Hunter** | **Security Researcher** | **penetration tester**
@@ -31,7 +29,9 @@
 - Reach me out at **samael.islies@gmail.com**
 </details>
 <br>
+
 ---
+
 <h2 id="present_status"> Present Status </h3>
 
 <img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
@@ -84,46 +84,21 @@
 </div>
 
 ---
-
-
-<h2 id="github_stats">GitHub Stats 👨‍💻</h2>
-
-<img align="right" width="42%" src="https://i.imgur.com/1ToWEWw.png" />
-
-<p>
-  <img 
-    align="left" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=D1lie&show_icons=true&locale=en&layout=compact&bg_color=00000000&hide_border=true" 
-    alt="D1lie" 
-  />
-</p>
-
-<p>
-  <img 
-    align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=D1lie&show_icons=true&locale=en&bg_color=00000000&hide_border=true" 
-    alt="D1lie" 
-  />
-</p>
-
-<p>
-  <img 
-    align="center" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=D1lie&background=00000000&hide_border=true" 
-    alt="D1lie" 
-  />
-</p>
+<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
+<img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
+ 
+  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=D1lie&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/D1lie/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=coffinxp&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
+ <p align="left"><a href="https://github.com/D1lie/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D1lie&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
 
 <br><br>
-
-
 
 <h2 id="donate" align=''> Support⚡️</h2>
 
 <details>
 <summary>Buy Me A Coffee</summary>
 
-<a href="https://buymeacoffee.com/d1lie" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a
+<a href="https://buymeacoffee.com/d1lie" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 </details>
 

@@ -22,7 +22,6 @@
 
 <details>
   <summary>More about me</summary>
-
 - **Name**: alastor
 - **From**: India
 - **Bug Hunter** | **Security Researcher** | **penetration tester**
@@ -30,12 +29,9 @@
 - Improving knowledge in **Webapp Vulnerabilities**
 - Lifelong learner — always exploring **everything**
 - Reach me out at **samael.islies@gmail.com**
-
 </details>
 <br>
-
 ---
-
 <h2 id="present_status"> Present Status </h3>
 
 <img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
@@ -95,32 +91,28 @@
 <img align="right" width="42%" src="https://i.imgur.com/1ToWEWw.png" />
 
 <p>
-  <a href="https://github.com/D1lie">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=D1lie&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&custom_title=Activity%20Logs" 
-      width="52%"
-    />
-  </a>
+  <img 
+    align="left" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=D1lie&show_icons=true&locale=en&layout=compact&bg_color=00000000&hide_border=true" 
+    alt="D1lie" 
+  />
 </p>
 
 <p>
-  <a href="https://git.io/streak-stats">
-    <img 
-      src="https://streak-stats.demolab.com?user=D1lie&theme=dark&background=00000000&hide_border=true&card_width=500" 
-      width="52%"
-    />
-  </a>
+  <img 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api?username=D1lie&show_icons=true&locale=en&bg_color=00000000&hide_border=true" 
+    alt="D1lie" 
+  />
 </p>
 
 <p>
-  <a href="https://github.com/D1lie">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=D1lie&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" 
-      width="52%"
-    />
-  </a>
+  <img 
+    align="center" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=D1lie&background=00000000&hide_border=true" 
+    alt="D1lie" 
+  />
 </p>
-
 
 <br><br>
 

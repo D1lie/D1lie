@@ -1,6 +1,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cHJlcmhjNzAzZXNmYmtkZHczY2cyZnc2c203Y2t6ZHRtMmhuZWJzYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7rbs2alIt4RaymJ1e5/giphy.gif" width="100%" height="auto"/></p>
+<p align="center"><img src="https://github.com/D1lie/D1lie/blob/main/hellthat'sme.gif" width="100%" height="auto"/></p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">

@@ -17,7 +17,7 @@
 
 A hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in penetration testing, vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
 
-<img align="right" src="https://github.com/user-attachments/assets/3024e5bd-576e-4f84-8282-1db9041233d1" alt="infosecmania.com" width="250" />
+<img align="right" src="https://github.com/D1lie/D1lie/blob/main/11.png" alt="dorkhunt" width="250" />
 
 ### 🛠️ What I’m Working On
 

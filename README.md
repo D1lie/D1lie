@@ -17,11 +17,14 @@
 
 A hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in penetration testing, vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
 
+<img align="right" src="https://github.com/user-attachments/assets/3024e5bd-576e-4f84-8282-1db9041233d1" alt="infosecmania.com" width="250" />
+
 ### 🛠️ What I’m Working On
 
-🔐 Working on my latest project: **[[Dorkunt](https://dorkhunt.netlify.app/)])** </br>
-JWTAuditor is a comprehensive, 100% client-side JWT (JSON Web Token) security testing platform designed by penetration testers, for penetration testers. 
-
+🔐 Working on my latest project: **[https://dorkhunt.netlify.app](https://dorkhunt.netlify.app/)])** </br>
+– DorkHunt is an AI-powered reconnaissance platform with 900+ categorized Google dorks spanning Admin Panels, APIs, Config Files, and PII exposure, streamlining OSINT workflows for efficient attack surface mapping and vulnerability discovery.
+– Integrated AI-driven dork generation (DeepSeek via NVIDIA NIM) to automate targeted query cre-
+ation.
 
 
 <details>

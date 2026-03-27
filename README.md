@@ -11,16 +11,23 @@
 <img width="28%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
 
 <h2 align="left">
-  hyy!, I'm alastor
+  hyy!, I'm Raja
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
 A hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in penetration testing, vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
 
+### 🛠️ What I’m Working On
+
+🔐 Working on my latest project: **[[Dorkunt](https://dorkhunt.netlify.app/)])** </br>
+JWTAuditor is a comprehensive, 100% client-side JWT (JSON Web Token) security testing platform designed by penetration testers, for penetration testers. 
+
+
+
 <details>
   <summary>More about me</summary>
   
-- **Name**: alastor
+- **Name**: Raja
 - **From**: India
 - **Bug Hunter** | **Security Researcher** | **penetration tester**
 - i have experience in **Bug Hunter**,**penetration testing**,**Social engineering**,**Security Research**

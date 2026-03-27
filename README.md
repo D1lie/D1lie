@@ -21,7 +21,7 @@ A hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hun
 
 ### 🛠️ What I’m Working On
 
-🔐 Working on my latest project: **[https://dorkhunt.netlify.app](https://dorkhunt.netlify.app/)])** </br>
+🔐 Working on my latest project: **[https://dorkhunt.netlify.app](https://dorkhunt.netlify.app/)** </br>
 – DorkHunt is an AI-powered reconnaissance platform with 900+ categorized Google dorks spanning Admin Panels, APIs, Config Files, and PII exposure, streamlining OSINT workflows for efficient attack surface mapping and vulnerability discovery.
 – Integrated AI-driven dork generation (DeepSeek via NVIDIA NIM) to automate targeted query cre-
 ation.
